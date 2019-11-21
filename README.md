@@ -1,4 +1,4 @@
-# transformxml
+# TransformXML
 Command line utility to apply XSL transforms
 
 
